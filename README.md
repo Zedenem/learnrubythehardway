@@ -1,4 +1,4 @@
 learnrubythehardway
 ===================
 
-Exercises I made will going throught Ruby's book from http://learncodethehardway.org/
+Exercises I made while going through 'Learn Ruby the hard way' from http://learncodethehardway.org/
